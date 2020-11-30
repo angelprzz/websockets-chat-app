@@ -1,5 +1,11 @@
 # WebSockets Chat App
 
-This chat demo app is built with Socket.io, Express and vanilla JavaScript.
+This chat demo app has been built using Socket.io, Express and vanilla JavaScript.
 
-Here, the user has the ability to create different chat rooms, choose a unique username, send messages in real time and see the people who has joined the conversation.
+Inside the app the user can:
+* Create different chat rooms.
+* Choose a unique username.
+* Send messages in real time.
+* See the people who has joined the chat room.
+
+Live in https://angel-chat-app.herokuapp.com/
