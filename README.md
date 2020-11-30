@@ -8,4 +8,5 @@ Inside the app the user can:
 * Send messages in real time.
 * See the people who has joined the chat room.
 
-Live in https://angel-chat-app.herokuapp.com/
+
+You can check the app in production at https://angel-chat-app.herokuapp.com/
