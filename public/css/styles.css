@@ -97,10 +97,17 @@ button:disabled {
     overflow-y: scroll
 }
 
+@media only screen and (max-width: 480px) {
+    #sidebar {
+        display: none;
+    }
+}
+
 /* Chat styles */
 
 .chat__main {
     flex-grow: 1;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     max-height: 100vh;
