@@ -1,8 +1,8 @@
 # WebSockets Chat App
 
-This chat demo app has been built using Socket.io, Express and vanilla JavaScript.
+This chat demo app has been built using **Socket.io**, **Express** on the backend and vanilla **JavaScript** on the frontend.
 
-With this app you will be able to:
+Inside the app you will be able to:
 * Send messages in real time.
 * Create different chat rooms.
 * Share your location.
