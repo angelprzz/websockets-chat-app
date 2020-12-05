@@ -2,10 +2,16 @@
 
 This chat demo app has been built using Socket.io, Express and vanilla JavaScript.
 
-Inside the app the user can:
-* Create different chat rooms.
+With this app you will be able to:
 * Send messages in real time.
-* Share their location.
+* Create different chat rooms.
+* Share your location.
 * See the people who has joined the chat room.
 
-You can check the app in production at https://angel-chat-app.herokuapp.com/
+## How to run
+1. Download or clone the project
+2. Install the dependencies with "npm install"
+3. Start the project with "npm run start".
+4. Open http://localhost:3000 in your browser.
+
+**You can check the app in production at https://angel-chat-app.herokuapp.com/**
