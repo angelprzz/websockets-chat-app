@@ -1,5 +1,7 @@
 # WebSockets Chat App
 
+✨**You can check the app in production at https://angel-chat-app.herokuapp.com/**
+
 This chat demo app has been built using **Socket.io**, **Express** on the backend and vanilla **JavaScript** on the frontend.
 
 Inside the app you will be able to:
@@ -13,5 +15,3 @@ Inside the app you will be able to:
 2. Install the dependencies with "npm install"
 3. Start the project with "npm run start".
 4. Open http://localhost:3000 in your browser.
-
-**You can check the app in production at https://angel-chat-app.herokuapp.com/**
