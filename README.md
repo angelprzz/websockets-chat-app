@@ -4,7 +4,7 @@
 
 This chat demo app has been built using **Socket.io**, **Express** on the backend and vanilla **JavaScript** on the frontend.
 
-Inside the app you will be able to:
+Within the app you will be able to:
 * Send messages in real time.
 * Create different chat rooms.
 * Share your location.
@@ -12,6 +12,6 @@ Inside the app you will be able to:
 
 ## How to run
 1. Download or clone the project
-2. Install the dependencies with "npm install"
-3. Start the project with "npm run start".
+2. Install the dependencies with `npm install`
+3. Start the project with `npm run start`.
 4. Open http://localhost:3000 in your browser.
