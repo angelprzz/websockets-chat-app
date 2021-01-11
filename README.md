@@ -1,6 +1,6 @@
 # WebSockets Chat App
 
-✨**You can check the app in production at https://angel-chat-app.herokuapp.com/**
+✨**App in production at https://angel-chat-app.herokuapp.com/**
 
 This chat demo app has been built using **Socket.io**, **Express** on the backend and vanilla **JavaScript** on the frontend.
 
